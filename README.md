@@ -1,9 +1,13 @@
 # DND-char-bard
 A markdown file of info for my Bard character.
 
-## Current Level : 4
+## Current Level : 5
 
-## Known Spells
+### Special Stuff
+
+- Font of Inspiration: Regain all Bardic Inspiration dice after short or long rest
+
+## Known Spells (8)
 
 ### Cantrips
 
@@ -15,8 +19,6 @@ A markdown file of info for my Bard character.
 
 1. [Bane](https://5thsrd.org/spellcasting/spells/bane/)
 1. [Charm Person](https://5thsrd.org/spellcasting/spells/charm_person/)
-1. [Illusory Script](https://5thsrd.org/spellcasting/spells/illusory_script/)
-
 
 ### Second-Level
 
@@ -25,4 +27,7 @@ A markdown file of info for my Bard character.
 1. [Shatter](https://5thsrd.org/spellcasting/spells/shatter/)
 1. [Suggestion](https://5thsrd.org/spellcasting/spells/suggestion/)
 
+### Third-Level
 
+1. [Glyph of Warding](https://5thsrd.org/spellcasting/spells/glyph_of_warding/)
+1. [Fear](https://5thsrd.org/spellcasting/spells/fear/)
